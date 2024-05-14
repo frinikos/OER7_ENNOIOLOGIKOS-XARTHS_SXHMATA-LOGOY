@@ -1,4 +1,5 @@
-# OER7_ENNOIOLOGIKOS-XARTHS_SXHMATA-LOGOY
+# OER7_«Εννοιολογικός Χάρτης – Σχήματα λόγου»
+ https://frinikos.github.io/OER7_ENNOIOLOGIKOS-XARTHS_SXHMATA-LOGOY/
  
 Γνωστικό Αντικείμενο: Νεοελληνική Γλώσσα, «Εννοιολογικός Χάρτης – Σχήματα λόγου».
 
